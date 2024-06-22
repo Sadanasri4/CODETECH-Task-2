@@ -15,3 +15,4 @@
 #### Port Scanning: Scans common ports (1-1024) on detected hosts to identify open ports.
 #### Software Version Checking: Fetches and displays the server software version from HTTP headers for web servers running on detected hosts.
 ##### Misconfiguration Detection: Highlights open ports and outdated software versions that could indicate potential vulnerabilities.
+![Screenshot 2024-06-22 234259](https://github.com/Sadanasri4/CODETECH-Task-2/assets/172870310/c1a14cbd-2dca-4835-bea6-712aa47aade2)
